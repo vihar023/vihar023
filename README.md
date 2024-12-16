@@ -1,4 +1,4 @@
-<p align="center"> <img align="center" width="1100" height="400" src="https://github.com/user-attachments/assets/462f235b-063b-486d-9c27-1157ecee7889"/> </p>
+<p align="center"> <img align="center"  width="1100" height="250" src="https://github.com/user-attachments/assets/462f235b-063b-486d-9c27-1157ecee7889"/> </p>
 
 # <p align="center">  👋 Hi, I'm **Vihar Patel**  </p>
 
