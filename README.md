@@ -26,12 +26,21 @@ I’m a graduate student specializing in **Data Analysis** who spends my days ex
 
 # 🛠 **Things, I work on!**  
 
-<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" height="40" width="40" style="margin-right: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+<img align="left" height="40" width="40" style="margin-right: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img align="left" height="40" width="40" style="margin-right: 8px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
+<img align="left" height="40" width="40" style="margin-right: 8px;" src="https://github.com/user-attachments/assets/1e25cd76-6e8b-4d5e-9357-eae121485e6d"/>
+<img align="left" height="40" width="40" style="margin-right: 8px;" src="https://github.com/user-attachments/assets/7955ab15-a97a-4e51-9a0a-a2ed4a3b1e85"/>
+<img align="left" height="40" width="40" style="margin-right: 8px;" src="https://github.com/user-attachments/assets/10c408a1-927f-4d64-90a6-663630139664"/>
+
+
+
+<!--  <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
 <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>
 <img align="left" height="40" src="https://github.com/user-attachments/assets/1e25cd76-6e8b-4d5e-9357-eae121485e6d"/>
 <img align="left" height="40" src="https://github.com/user-attachments/assets/7955ab15-a97a-4e51-9a0a-a2ed4a3b1e85"/>
-<img align="left" height="40" src="https://github.com/user-attachments/assets/10c408a1-927f-4d64-90a6-663630139664"/>
+<img align="left" height="40" src="https://github.com/user-attachments/assets/10c408a1-927f-4d64-90a6-663630139664"/> -->
 
 
 &emsp;
